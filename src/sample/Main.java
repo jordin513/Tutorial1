@@ -62,7 +62,7 @@ public class Main extends Application {
       grid.add(actiontarget, 1, 6);
 
       btn.setOnAction(new EventHandler<ActionEvent>() {
-
+//
         @Override
         public void handle(ActionEvent e) {
           actiontarget.setFill(Color.FIREBRICK);
